@@ -234,4 +234,4 @@ jobs:
         path: _build/coverage
         retention-days: 7
 ```
-
+[![Coverage Status](https://coveralls.io/repos/github/Enafsky/lab5/badge.svg?branch=main)](https://coveralls.io/github/Enafsky/lab5?branch=main)
